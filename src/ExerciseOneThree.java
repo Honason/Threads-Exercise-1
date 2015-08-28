@@ -1,7 +1,7 @@
 public class ExerciseOneThree extends Thread {
     public void run() {
         int number = 10;
-        while (Main.taskThree) {
+        while (MainOne.taskThree) {
             System.out.println(number);
             number++;
             try {

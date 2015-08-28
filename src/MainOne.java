@@ -1,4 +1,4 @@
-public class Main {
+public class MainOne {
 
     public static boolean taskThree = true;
 
